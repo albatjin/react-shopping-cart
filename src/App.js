@@ -109,8 +109,7 @@ class App extends React.Component {
                 removeFromCart={this.removeFromCart}
               />
             </div>
-            
-          </div>
+            </div>
         </main>
         <footer>All right is reserved.</footer>
       </div>
